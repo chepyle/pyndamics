@@ -20,3 +20,13 @@ implemented in pyndamics as
 The package also allows for statistical inference on the parameters, using the Markov Chain Monte Carlo (MCMC) technique implemented in PyMC version 2 (https://github.com/pymc-devs/pymc/tree/2.3) or the MCMC Hammer (http://dan.iel.fm/emcee/current/)
 
 See http://nbviewer.ipython.org/gist/bblais/7807979 for many MCMC examples using Pyndamics.
+
+# Installation
+pyndamics is available through `pip` :
+    pip install pyndamics
+
+Or the latest version can be installed from the github source:
+    pip install -e git+git://github.com/bblais/pyndamics.git#egg=pyndamics
+
+
+
