@@ -23,10 +23,10 @@ See http://nbviewer.ipython.org/gist/bblais/7807979 for many MCMC examples using
 
 # Installation
 pyndamics is available through `pip` :
-    pip install pyndamics
+    `pip install pyndamics`
 
 Or the latest version can be installed from the github source:
-    pip install -e git+git://github.com/bblais/pyndamics.git#egg=pyndamics
+    `pip install -e git+git://github.com/bblais/pyndamics.git#egg=pyndamics`
 
 
 
